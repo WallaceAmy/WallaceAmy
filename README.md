@@ -8,9 +8,11 @@
 
 🔍I am currently looking for analyst roles in sport, government, or intelligence where I can bring real purpose to the world.
 
+Recent Projects:<br>
+🌐 Built and deployed a new website for **[Albert Park Women's Golf Club]([https://www.womenssportsanalytix.com/p1](https://www.albertparkwomensgolf.club/))**.<br>
+
 I am currently working on:<br>
 🏃‍♀️ My **[Women's Sports Analytix](https://www.womenssportsanalytix.com/p1)** project.<br>
-🌐 Upgrading Albert Park Women's Golf Club's Webpage.<br>
 </header>
 
 <!-- -->
