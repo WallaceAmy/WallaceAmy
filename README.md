@@ -31,6 +31,7 @@ September 2022 - July 2023
 * HTML
 * CSS
 * R
+* XML
 * Python (Beginner)
 
 
