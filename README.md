@@ -39,7 +39,8 @@ I am currently working on:<br>
 
 ### 📊 Data Visualisation  
 * Power BI
-<iframe title="Weekly Sales Overview" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3ab46fe1-11d1-436d-9dfc-91046c62b4fa&autoAuth=true&ctid=f96d263d-2540-4d6d-a052-1e3a6c55cc36&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
+<!--  <<< Dashboard Example 1
+<iframe title="Weekly Sales Overview" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3ab46fe1-11d1-436d-9dfc-91046c62b4fa&autoAuth=true&ctid=f96d263d-2540-4d6d-a052-1e3a6c55cc36&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe> >>> -->
 * Tableau
 * SAS Viya
 * Excel
