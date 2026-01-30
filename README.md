@@ -61,6 +61,38 @@ I am currently working on:<br>
 🔹 **Models**: Descriptive, Predictive, Comparitive, Relational, Clustering, Anomaly, Optimisation, Process Mapping, Gap Analysis, Kanban, Waterfall <br>
 🔹 **Techniques**: Visualisations, Story Telling, Linear Regression, Time Series, Outlier Detection, Flowcharts, MOSCOW, Burn Down & Gantt Charts, Image Annotation
 <br><br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+  <a href="https://www.womenssportsanalytix.com/technicalplaybook" style="text-decoration:none; color:inherit;">
+      <img src="https://raw.githubusercontent.com/WallaceAmy/assets/main/Women's%20Sports%20Analytix%20Home.png"
+           style="width:100%; max-height:220px; object-fit:cover; border-radius:10px;">
+      <p><b>Women’s Sports Analytix</b></p>
+      <p><code>Computer Vision Annotation</code> <code>Deep Learning</code> <code>Wix</code></p>
+    </div>
+  </a>
+</td>
+
+<td width="50%" valign="top">
+  <a href="https://github.com/WallaceAmy/Descriptive-Analysis-Community-Government-Project" style="text-decoration:none; color:inherit;">
+      <img src="https://raw.githubusercontent.com/WallaceAmy/Descriptive-Analysis-Community-Government-Project/main/Descriptive%20-%20Community%20Government%20Project.png"
+           style="width:100%; max-height:220px; object-fit:cover; border-radius:10px;">
+      <p><b>Community & Government Descriptive Analysis</b></p>
+    <p><i>Descriptive Analysis</i></p>
+      <p><code>Excel</code> <code>Python</code> <code>Power Bi</code></p>
+    </div>
+  </a>
+</td>
+
+</tr>
+</table>
+
+
+<!--  <<< 
+
+<br><br>
 ## 📊 Data Analysis Projects <br> 
 ### 📌 Descriptive Analysis  
 
@@ -71,8 +103,8 @@ I am currently working on:<br>
 
 **🔗 [View Project](https://github.com/WallaceAmy/Descriptive---Community-Government-Project/blob/main/README.md#descriptive---community-government-project)**<br><br>
 
+ >>> -->
 <br>
-
 
 <!-- -->
 <footer>
